@@ -14,4 +14,4 @@ On top of classes, I am working on participating in some pretty exciting researc
 * Python
 * Docker
 * Ubuntu
-* Docker
+* Flask
