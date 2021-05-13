@@ -21,10 +21,9 @@
 title: Brandon Zettek
 email: bzettek@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my website! I plan to use this site to blog
-  a little and share some projects I've been working on. I plan to talk
-  about books, podcasts, and academic papers. Mostly stuff I consider important in
-  my life that I think can help others in theirs.
+  Welcome to my website! I am a student at Indiana University studying
+  Computer Engineering. I plan to use this site to share what I've been
+  working on.
 #baseurl: "bz_blog"  the subpath of your site, e.g. /blog
 url: "brandonzettek.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
