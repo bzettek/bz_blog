@@ -31,7 +31,7 @@ Some drawbacks of using this was outliers in the data would not do too well due 
 algorithm.
 <img src="/assets/resultsCF.png" width="275" height="600" />
 <p> </p>
-The right is the output directly from the algorithm.
+The left is the output directly from the algorithm.
 <p>
 The last thing we did for this class was host it on a VM.
 A lot of the code was provided for us by instructors, but we essentially used Flask and Docker to package the
