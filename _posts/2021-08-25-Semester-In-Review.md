@@ -14,7 +14,7 @@ Here are the technologies I used:
 * Ubuntu
 * Flask
 <p> </p>
-<img src="/assets/footballH.jpg" width="500" height="350" />
+<img src="/assets/footballH.jpg" width="520" height="350" />
 
 For this project, the goal was to create a predictor that could estimate the attendance
 of college football games. College football generates millions of dollars for universities, so
@@ -44,7 +44,8 @@ The full code is available on my Github linked at the bottom of the page.
 <h3> Entropy Sources of the Linux Pseudorandom Number Generator </h3>
 For this research, we met weekly with a member of the National Security Agency (NSA) and were able to ask any questions and collaborate
 to create this report.
-[Link to the Report](https://drive.google.com/file/d/1BYedk4uvmAFC6Bqu3c99sdhtd5jnAshq/view?usp=sharing)
+[Report](https://drive.google.com/file/d/1BYedk4uvmAFC6Bqu3c99sdhtd5jnAshq/view?usp=sharing)
+<p></p>
 <img src="/assets/raspPi.jpeg" width="200" height="175" />
 
 My area of focus was on the Raspberry Pi and how the SOC creates entropy to be used by the system.
