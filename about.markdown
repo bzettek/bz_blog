@@ -15,3 +15,5 @@ On this website, you can find posts and projects that I think are important to w
   <img src="/assets/brandonzettekresumeO.jpg"/>
 </div>
 [Resume Download](https://drive.google.com/file/d/1hHBSUyHrvXbc1uVc11kLsGNm-0TZezcr/view?usp=sharing)
+<p></p>
+<p class="rss-subscribe">subscribe <a href="https://youtu.be/WulADN3Snnw">via BUZZER</a></p></div>
