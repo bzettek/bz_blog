@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Summer 2021 Overview"
-date:   2021-08-25 2:00
+date:   2021-08-25 3:30
 categories: jekyll update
 ---
 I have just settled back into Bloomington and am getting ready for a challenging semester of
