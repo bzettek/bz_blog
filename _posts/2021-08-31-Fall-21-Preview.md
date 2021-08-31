@@ -20,8 +20,8 @@ Technologies I'm using in these classes:
 * C
 * Linux
 * Virtual Machines
-* Super Computers(Big Red II)
 * Raspberry Pi
+* Super Computers(Big Red II)
 
 The last bullet point has me excited. The course I am taking in High Performance Computing is
 being taught by a very well know figure in Super Computing. [Thomas Sterling.](https://luddy.indiana.edu/contact/profile/?profile_id=303)
