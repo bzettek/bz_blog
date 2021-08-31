@@ -54,3 +54,9 @@ It's worth noting the above sentence is only true if you don't know the seed.
 <p> </p>
 This is my first post in a while and I just wanted to say thank you for reading!
 If you need help with anything engineering or career related feel free to contact me.
+
+<p>
+  <p>
+    Note: I am a student and am still learning. I try my best to only provide 100% accurate information. If you notice something that doesn't sound quite right. Please contact me!
+  </p>
+</p>

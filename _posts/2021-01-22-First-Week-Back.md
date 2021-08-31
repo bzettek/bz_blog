@@ -15,3 +15,9 @@ On top of classes, I am working on participating in some pretty exciting researc
 * Docker
 * Ubuntu
 * Flask
+
+<p>
+  <p>
+    Note: I am a student and am still learning. I try my best to only provide 100% accurate information. If you notice something that doesn't sound quite right. Please contact me!
+  </p>
+</p>

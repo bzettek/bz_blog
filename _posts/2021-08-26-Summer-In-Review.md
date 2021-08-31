@@ -25,3 +25,10 @@ when it comes to any sort of technical role. I didn't realize how important this
 I'm grateful to have had such a good opportunity early in my career and can't wait to continue progressing.
 <p> </p>
 Feel free to contact me if you have any questions about anything engineering or career related!
+
+
+<p>
+  <p>
+    Note: I am a student and am still learning. I try my best to only provide 100% accurate information. If you notice something that doesn't sound quite right. Please contact me!
+  </p>
+</p>
