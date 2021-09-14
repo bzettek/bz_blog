@@ -9,7 +9,6 @@ This upcoming semester is shaping up to be the best yet. Being back in person is
 interesting.
 
 This semester I am taking courses in the following areas:
- * High Performance Computing(HPC)
  * Cyber-Physical Systems(Self-Driving Robot)
  * Engineering Mathematics(Linear Algebra)
  * Circuits and Digital Design
@@ -21,13 +20,7 @@ Technologies I'm using in these classes:
 * Linux
 * Virtual Machines
 * Raspberry Pi
-* Super Computers(Big Red II)
 
-The last bullet point has me excited. The course I am taking in High Performance Computing is
-being taught by a very well know figure in Super Computing. [Thomas Sterling.](https://luddy.indiana.edu/contact/profile/?profile_id=303)
-From the two lectures I've watched, IU's supercomputer Big Red II is in the middle of the pact when it comes to how fast it is
-compared to other supercomputers. We are going to be able to actually run some programs on it too!
-If you're interested in learning more about IU's [Big Red II.](https://www.hpcwire.com/2013/04/19/big_red_ii_colors_new_page_for_hybrid_systems/)
 <img src="/assets/alphabot2-image.png"/>
 
 Another class worth highlighting is my Cyber-Physical Systems class. The gist of this class is that it is very project based.
